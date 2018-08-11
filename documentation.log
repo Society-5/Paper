@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.8.10)  11 AUG 2018 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.8.10)  11 AUG 2018 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -579,7 +579,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--107
 
  []
 
-(./implementation.tex) (./problems.tex) (./techniques.tex
+(./implementation.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[4]) (./problems.tex) (./techniques.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 4.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmr.fd
@@ -592,7 +597,7 @@ File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 4.
- [4]) (./future.tex)
+) (./future.tex)
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 128.
 
 
@@ -621,9 +626,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--132
 
  []
 
+[5]
 LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 135
 .
-(/usr/share/texmf-dist/tex/latex/lm/ot1lmtt.fd
+ (/usr/share/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Underfull \hbox (badness 10000) in paragraph at lines 134--136
@@ -647,7 +653,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 146--148
 
  []
@@ -678,7 +684,7 @@ Here is how much of TeX's memory you used:
  18411 multiletter control sequences out of 15000+600000
  50119 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,9n,73p,961b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,9n,73p,961b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fo
 nts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-maths
 y.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc}</usr/share/texmf-d
@@ -690,7 +696,7 @@ mr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
 mf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/pub
 lic/lm/lmri8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/
 share/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on documentation.pdf (6 pages, 521297 bytes).
+Output written on documentation.pdf (6 pages, 522520 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
