@@ -1,11 +1,11 @@
-# Ignore everything
+# Ignore everything (LaTeX build artifacts: .aux, .log, .toc, .synctex.gz, ...)
 *
 
 # But not these files...
 !.gitignore
 !*.tex
-!update
+!*.bib
 !*.png
 !*.md
-
-
+!update
+!documentation.pdf
