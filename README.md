@@ -15,6 +15,12 @@ LaTeX write-up of the Society-5 project:
 
 The project shows a WowWee Robosapien X working as a "robo-researcher". It explores an environment and avoids obstacles without a human controlling it, as a stand-in for a planetary-exploration mission such as one on Mars. A mixed-reality interface also lets a person see through the robot's camera and control it remotely.
 
+## In the media
+
+**[Военните репортери, 4.11.2018](https://youtu.be/1aO4j-VQSGU)** is an episode of "Military Reports" on the Bulgarian Military TV Channel. It includes a documentary, about 19 minutes long, on the live experiment and training on the future digital society (Society 5.0) run at SRS'2018 in Pamporovo. The robot appears in the footage.
+
+The event was organized by Assoc. Prof. Zlatogor Minchev (JTSAC) as part of the *Securing Digital Future 21* initiative, during the Summer Research School of the High School Students Institute of Mathematics and Informatics. Participants in the video: Alex Tsvetanov, Antoan Georgiev, Ivaylo Ivanov, Konstantin Delchev and Dimitar Chakarov.
+
 ## Structure
 
 | File | Section |
